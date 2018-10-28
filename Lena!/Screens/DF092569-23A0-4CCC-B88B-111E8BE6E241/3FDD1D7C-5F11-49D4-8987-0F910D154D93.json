@@ -53,9 +53,15 @@
         "color": {
           "_class": "color",
           "alpha": 1,
+<<<<<<< HEAD:Lena!/Screens/DF092569-23A0-4CCC-B88B-111E8BE6E241/3FDD1D7C-5F11-49D4-8987-0F910D154D93.json
           "blue": 0.2274509803921568,
           "green": 0.6823529411764707,
           "red": 0.9607843137254902
+=======
+          "blue": 0.3009106791692218,
+          "green": 0.3959661989795918,
+          "red": 0.003070050430061962
+>>>>>>> 6fc034e9006fc272148243ea103144efecb38555:Lena!/Styleguide/EA047787-0716-4F46-A6AB-37A9BA0964AC/2C699F0A-464F-460E-BD1A-58B1D75DF0A9.json
         },
         "fillType": 0,
         "isEnabled": true,

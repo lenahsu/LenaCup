@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "138023A8-C376-4EA3-B781-7200CA36F60D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "55774C57-77F4-4CC0-B6AD-97F37FE94BF0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF3036E4-9EA4-4A0E-A9AA-99E713871021",
+    "height": 194,
+    "width": 254,
+    "x": 903,
+    "y": 486
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Community/Question Card Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D4923C7F-B5FA-492E-B362-31A108CD7865",
+      "overrideName": "D1C62DCE-1D73-40BF-B4A0-C663CF2E6901_stringValue",
+      "value": "Will it hurt?"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "776EF25A-C0FE-4D50-9F6D-7BD551F504EB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9FA54D04-7649-410F-A7F8-E4BFDB19EEE1",
+  "verticalSpacing": 0
+}

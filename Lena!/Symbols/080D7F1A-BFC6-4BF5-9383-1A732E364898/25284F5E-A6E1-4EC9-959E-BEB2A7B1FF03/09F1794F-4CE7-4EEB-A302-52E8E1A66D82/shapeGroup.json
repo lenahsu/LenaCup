@@ -56,9 +56,15 @@
         "color": {
           "_class": "color",
           "alpha": 1,
+<<<<<<< HEAD:Lena!/Symbols/080D7F1A-BFC6-4BF5-9383-1A732E364898/25284F5E-A6E1-4EC9-959E-BEB2A7B1FF03/09F1794F-4CE7-4EEB-A302-52E8E1A66D82/shapeGroup.json
           "blue": 1,
           "green": 1,
           "red": 1
+=======
+          "blue": 0.3009106791692218,
+          "green": 0.3959661989795918,
+          "red": 0.003070050430061962
+>>>>>>> 6fc034e9006fc272148243ea103144efecb38555:Lena!/Styleguide/EA047787-0716-4F46-A6AB-37A9BA0964AC/7E64CCCC-1E7B-4E11-9E09-CDA9A85AB55B.json
         },
         "fillType": 0,
         "isEnabled": true,

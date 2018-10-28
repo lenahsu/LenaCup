@@ -2,7 +2,11 @@
   "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
+<<<<<<< HEAD
   "do_objectID": "0C738137-A5E6-462F-AD1B-9D5B71CAC1FE",
+=======
+  "do_objectID": "376D166C-89B7-4755-910D-549B6840789C",
+>>>>>>> 6fc034e9006fc272148243ea103144efecb38555
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,7 +28,11 @@
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
+<<<<<<< HEAD
     "base": 0,
+=======
+    "base": -422,
+>>>>>>> 6fc034e9006fc272148243ea103144efecb38555
     "guides": [
     ]
   },
@@ -38,6 +46,7 @@
   "layers": [
     {
       "class": "symbolMaster",
+<<<<<<< HEAD
       "id": "C1C78F15-DB31-44D9-80C6-86C24A4AF595"
     },
     {
@@ -63,6 +72,17 @@
   ],
   "name": "Symbols",
   "nameIsFixed": false,
+=======
+      "id": "8E0BA8F4-FB63-48F0-BCC9-F5DA94AC785A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "03D50CB5-CCC8-408B-B363-B14935CECD32"
+    }
+  ],
+  "name": "Symbols",
+  "nameIsFixed": true,
+>>>>>>> 6fc034e9006fc272148243ea103144efecb38555
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -76,7 +96,11 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
+<<<<<<< HEAD
     "base": 0,
+=======
+    "base": -350,
+>>>>>>> 6fc034e9006fc272148243ea103144efecb38555
     "guides": [
     ]
   }

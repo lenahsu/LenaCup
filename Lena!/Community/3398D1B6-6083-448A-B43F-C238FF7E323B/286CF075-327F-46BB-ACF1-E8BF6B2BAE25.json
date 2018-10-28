@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "286CF075-327F-46BB-ACF1-E8BF6B2BAE25",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4BBB79C5-99ED-46AA-ACDD-BD6C09213654",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A620C533-0D92-4ACD-A4B9-8AFF1E6310C0",
+    "height": 194,
+    "width": 254,
+    "x": 303,
+    "y": 923
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Community/Question Card Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E5F93EB-63E2-4A3F-90B8-DE22BD56F2C7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9FA54D04-7649-410F-A7F8-E4BFDB19EEE1",
+  "verticalSpacing": 0
+}
