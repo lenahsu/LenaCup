@@ -1,8 +1,16 @@
 {
-  "_class": "page",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": 0,
+  "changeIdentifier": 29,
   "clippingMaskMode": 0,
-  "do_objectID": "5899a5e0-daf4-11e8-a36e-79e4ee2cc09f",
+  "do_objectID": "717E0990-EE47-421F-832B-233766D7C177",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,46 +23,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
+    "height": 38,
+    "width": 38,
+    "x": 232,
     "y": 0
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "EA047787-0716-4F46-A6AB-37A9BA0964AC"
-    },
-    {
       "class": "bitmap",
-      "id": "F68C528D-F630-493D-A9D6-9461A5617F4A"
-    },
-    {
-      "class": "bitmap",
-      "id": "B1C00A83-F670-4ADA-8EFF-561DBB50951C"
+      "id": "DBEBF8BB-A5D3-408E-84E6-F28C1ED24916"
     }
   ],
-  "name": "Styleguide",
+  "name": "icon/ search",
   "nameIsFixed": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -62,9 +67,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "B40CBA25-3C3D-41BA-A315-7B6C1AD30663",
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }

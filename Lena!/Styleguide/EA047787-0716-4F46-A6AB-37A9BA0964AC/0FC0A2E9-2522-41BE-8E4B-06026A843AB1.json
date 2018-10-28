@@ -19,7 +19,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4AE16EBB-868A-4F54-9601-E47BEB573E2F",
-    "height": 2447,
+    "height": 4535,
     "width": 1440,
     "x": 0,
     "y": 0
@@ -30,7 +30,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
   "name": "Rectangle",

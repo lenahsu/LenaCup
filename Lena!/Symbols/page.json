@@ -1,8 +1,8 @@
 {
   "_class": "page",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5899a5e0-daf4-11e8-a36e-79e4ee2cc09f",
+  "do_objectID": "0C738137-A5E6-462F-AD1B-9D5B71CAC1FE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 0,
+    "width": 0,
     "x": 0,
     "y": 0
   },
@@ -24,7 +24,7 @@
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
@@ -37,20 +37,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "EA047787-0716-4F46-A6AB-37A9BA0964AC"
+      "class": "symbolMaster",
+      "id": "C1C78F15-DB31-44D9-80C6-86C24A4AF595"
     },
     {
-      "class": "bitmap",
-      "id": "F68C528D-F630-493D-A9D6-9461A5617F4A"
-    },
-    {
-      "class": "bitmap",
-      "id": "B1C00A83-F670-4ADA-8EFF-561DBB50951C"
+      "class": "symbolMaster",
+      "id": "717E0990-EE47-421F-832B-233766D7C177"
     }
   ],
-  "name": "Styleguide",
-  "nameIsFixed": true,
+  "name": "Symbols",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -64,7 +60,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }
