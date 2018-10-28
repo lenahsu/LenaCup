@@ -3,10 +3,10 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "7E64CCCC-1E7B-4E11-9E09-CDA9A85AB55B",
+  "do_objectID": "2C699F0A-464F-460E-BD1A-58B1D75DF0A9",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "668AB84D-AE59-4581-8D83-320007AB16AB",
+    "do_objectID": "EA502B88-B399-4369-9312-5CC071212BAE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,11 +18,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D928BB8C-8264-4A74-A26C-23140035AF02",
+    "do_objectID": "EB45E9D0-17AE-4CE4-A0CF-5F8CC794C0F9",
     "height": 593,
-    "width": 1440,
-    "x": -498,
-    "y": 963
+    "width": 222,
+    "x": -1217,
+    "y": 936
   },
   "hasClippingMask": false,
   "image": {
@@ -37,7 +37,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bitmap Copy 7",
+  "name": "Bitmap Copy 5",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,7 +45,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "7BB7786C-E7F3-40BA-918B-9CC9DF5CD244",
+    "do_objectID": "F0B5ABE6-616C-4F12-85BE-8F9EA0F8E8C6",
     "endMarkerType": 0,
     "fills": [
       {
@@ -53,9 +53,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3009106791692218,
-          "green": 0.3959661989795918,
-          "red": 0.003070050430061961
+          "blue": 0.1843137254901961,
+          "green": 0.2431372549019608,
+          "red": 0
         },
         "fillType": 0,
         "isEnabled": true,
