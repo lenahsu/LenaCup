@@ -2,7 +2,7 @@
   "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0C738137-A5E6-462F-AD1B-9D5B71CAC1FE",
+  "do_objectID": "376D166C-89B7-4755-910D-549B6840789C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,7 +24,7 @@
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -422,
     "guides": [
     ]
   },
@@ -38,15 +38,15 @@
   "layers": [
     {
       "class": "symbolMaster",
-      "id": "C1C78F15-DB31-44D9-80C6-86C24A4AF595"
+      "id": "8E0BA8F4-FB63-48F0-BCC9-F5DA94AC785A"
     },
     {
       "class": "symbolMaster",
-      "id": "717E0990-EE47-421F-832B-233766D7C177"
+      "id": "03D50CB5-CCC8-408B-B363-B14935CECD32"
     }
   ],
   "name": "Symbols",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -60,7 +60,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -350,
     "guides": [
     ]
   }

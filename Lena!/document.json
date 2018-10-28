@@ -33,10 +33,10 @@
     "version": 112
   },
   "pages": [
-    "Styleguide",
-    "Landing",
     "Product Guide",
     "Community",
+    "Styleguide",
+    "Landing",
     "Symbols"
   ]
 }

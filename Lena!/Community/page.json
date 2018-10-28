@@ -2,10 +2,9 @@
   "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "509433AC-55ED-41F6-AFA7-467D2E539709",
+  "do_objectID": "FB661CC6-5619-4FBE-A1AD-B9DDA45C1962",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "246F894D-F2A2-4395-B2DB-8E1CAEDAFB63",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "61AF8CE1-DF2A-4F0A-A535-820B66ABAC80",
     "height": 0,
     "width": 0,
     "x": 0,
@@ -27,7 +25,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -422,
-    "do_objectID": "7678FBA0-D405-4018-81EF-F1D201FC0AB9",
     "guides": [
     ]
   },
@@ -40,12 +37,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "A8942FF2-2F3F-4782-A18C-22B74E616942"
-    },
-    {
       "class": "artboard",
-      "id": "D3F71F0E-9D8D-4958-BECE-D314738964CC"
+      "id": "3398D1B6-6083-448A-B43F-C238FF7E323B"
     }
   ],
   "name": "Community",
@@ -56,7 +49,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C7D4DE53-8870-4F44-A8C7-0544C8E2F6CB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -65,7 +57,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": -350,
-    "do_objectID": "DBF1FB57-832E-4718-9F21-87B607C2E248",
     "guides": [
     ]
   }

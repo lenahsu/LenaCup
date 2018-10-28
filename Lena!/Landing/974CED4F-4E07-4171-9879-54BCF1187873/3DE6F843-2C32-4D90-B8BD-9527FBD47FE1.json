@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3DE6F843-2C32-4D90-B8BD-9527FBD47FE1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E9728ACE-BE3B-4C08-8E0C-0FB6E234B145",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "167DBDEC-8FA6-4D96-A084-B05434441E5B",
+    "height": 124,
+    "width": 414,
+    "x": 551,
+    "y": 780
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Character/Label Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C3D43B7E-5028-4BEC-90A6-6A8554E78DB8",
+      "overrideName": "B0A26DAB-29B9-4923-AA54-D813E661D7A1_stringValue",
+      "value": "Gurpreet S."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A3262B2E-681B-4D02-A70F-26A4EF29BBE8",
+      "overrideName": "45537C4F-3839-46B1-8F32-1E6DA44A2068_stringValue",
+      "value": "Business Intelligence Advisor"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "84D8EE85-8C21-47C9-BF0D-417E17D8B649",
+      "overrideName": "82EB9F29-221A-4DC5-BCC9-0E6DEE7B9238_stringValue",
+      "value": "London, UK"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B9E6E635-2083-4774-A3B3-8EE49D294F85",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5EF8D8C0-AD1D-4493-A7AC-CE1CBE05CEE5",
+  "verticalSpacing": 0
+}

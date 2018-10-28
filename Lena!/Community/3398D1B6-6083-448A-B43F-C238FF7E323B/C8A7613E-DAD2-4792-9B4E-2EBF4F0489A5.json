@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C8A7613E-DAD2-4792-9B4E-2EBF4F0489A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "176DD857-AF45-43FA-AD00-CAD46AD9A257",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0034F876-FA0F-42CC-9F33-55C1A78C04F9",
+    "height": 194,
+    "width": 254,
+    "x": 603,
+    "y": 486
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Community/Question Card Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D4923C7F-B5FA-492E-B362-31A108CD7865",
+      "overrideName": "D1C62DCE-1D73-40BF-B4A0-C663CF2E6901_stringValue",
+      "value": "What do you do when you're in public?"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5D5973F0-DB95-48BA-81FE-7D741FD9024F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9FA54D04-7649-410F-A7F8-E4BFDB19EEE1",
+  "verticalSpacing": 0
+}
