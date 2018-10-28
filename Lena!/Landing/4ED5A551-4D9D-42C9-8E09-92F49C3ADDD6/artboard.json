@@ -64,6 +64,30 @@
     },
     {
       "class": "text",
+      "id": "E9C2115E-7E48-4713-9A16-698C0F8ECE3E"
+    },
+    {
+      "class": "text",
+      "id": "6A37C40F-F638-4368-AE24-9D581D1C5A81"
+    },
+    {
+      "class": "text",
+      "id": "9D66FB4F-1A86-4DAF-BC17-F9F0291B20F4"
+    },
+    {
+      "class": "text",
+      "id": "CA8981EC-9438-49F5-8160-166974CFE0D5"
+    },
+    {
+      "class": "text",
+      "id": "FCD2780C-9206-4549-B1A3-97BA5147BEB8"
+    },
+    {
+      "class": "text",
+      "id": "E4154D99-5096-47A6-8E9B-B7E3D2B9D832"
+    },
+    {
+      "class": "text",
       "id": "8D9DE8EC-7011-455B-90FF-CEB20BCF37AB"
     },
     {
@@ -79,8 +103,32 @@
       "id": "A9065967-0246-4E7C-B94B-9D2AB13FA958"
     },
     {
+      "class": "text",
+      "id": "E6C02AF8-5127-48E3-8B17-68473633E1D8"
+    },
+    {
       "class": "bitmap",
       "id": "ABCED42A-D301-4FD5-8415-802AA84EC296"
+    },
+    {
+      "class": "bitmap",
+      "id": "26FCBFF8-DDF8-4C49-8ED6-53B909401C5B"
+    },
+    {
+      "class": "bitmap",
+      "id": "73EC3CC3-54F9-4CF4-A273-176D0D956A44"
+    },
+    {
+      "class": "shapePath",
+      "id": "16EA4ACD-2BF1-45E2-9F56-D16FFE927ED5"
+    },
+    {
+      "class": "rectangle",
+      "id": "4199713F-0836-46A1-9A2F-C7BCB80BE12E"
+    },
+    {
+      "class": "rectangle",
+      "id": "99D66228-ACCA-4FF8-99A2-96A83A314518"
     }
   ],
   "name": "A Day In The Life - Sam",

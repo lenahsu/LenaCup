@@ -16,64 +16,34 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
-              "size": 24
+              "name": "Helvetica-Bold",
+              "size": 18
             }
           },
-          "kerning": -0.6666667,
+          "kerning": -0.5,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 48,
             "minimumLineHeight": 48
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 220,
+        "length": 20,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "AppleColorEmoji",
-              "size": 24
-            }
-          },
-          "kerning": -0.6666667,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 48,
-            "minimumLineHeight": 48
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 2,
-        "location": 220
       }
     ],
-    "string": "Since I’m cramping and bleeding, I deserve a treat. At first, I thought the cup would be uncomfortable, but we went out for lunch and I forgot I was even on my period. Also, if you’re ever in Boulder, hit up La Taqueria 🌮"
+    "string": "Lena Cup — Sensitive"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A9065967-0246-4E7C-B94B-9D2AB13FA958",
+  "do_objectID": "E4154D99-5096-47A6-8E9B-B7E3D2B9D832",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B8DACDC7-723A-4D3A-8F95-412A7D7557E9",
+    "do_objectID": "E1FD6B12-C288-4DB5-9C3A-0AB6BE247F4C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -84,13 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F5C9D12F-4AF9-4EB5-ACAB-175FBAFC1117",
-    "height": 200,
-    "width": 592,
-    "x": 667,
-    "y": 1123
+    "do_objectID": "25916CAF-7C36-45D6-B5F0-89995E2939E5",
+    "height": 49,
+    "width": 198,
+    "x": 909,
+    "y": 2973
   },
-  "glyphBounds": "{{0, 14}, {584, 168}}",
+  "glyphBounds": "{{10, 15}, {179, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -99,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Since I’m cramping a",
+  "name": "Lena Cup — Sensitive",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -107,7 +77,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C844670B-9930-481C-8A03-D56BB51F4596",
+    "do_objectID": "BD066531-2C14-4F11-950C-C34B5AA075AF",
     "endMarkerType": 0,
     "fills": [
       {
@@ -131,7 +101,7 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "D1786C34-D8D9-4FB7-A7A0-D4481077087D",
+      "do_objectID": "162217AA-B04C-4DD6-8C1E-9576930B9E63",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -143,14 +113,14 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
-            "size": 24
+            "name": "Helvetica-Bold",
+            "size": 18
           }
         },
-        "kerning": -0.6666667,
+        "kerning": -0.5,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 48,
           "minimumLineHeight": 48
