@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "86331255-ED8C-4F7F-9B4B-8A685B8570A0",
+  "do_objectID": "19B91EC8-64B9-439E-8556-6AB93EFF558E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,41 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 124,
+    "width": 414,
+    "x": 132,
+    "y": 780
   },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -422,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "B5B6E7AA-C7F8-4DD0-97EC-DAE0E709104A"
-    },
-    {
-      "class": "artboard",
-      "id": "974CED4F-4E07-4171-9879-54BCF1187873"
-    }
+  "name": "Character/Label",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "Landing",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -58,10 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -350,
-    "guides": [
-    ]
-  }
+  "symbolID": "5EF8D8C0-AD1D-4493-A7AC-CE1CBE05CEE5",
+  "verticalSpacing": 0
 }

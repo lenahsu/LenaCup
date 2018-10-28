@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -259,8 +259,8 @@
       "id": "3F374899-0E1B-4C55-82F3-9DB71477A6EC"
     }
   ],
-  "name": "Desktop HD",
-  "nameIsFixed": false,
+  "name": "Landing",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,
