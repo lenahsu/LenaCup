@@ -1,10 +1,11 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "376D166C-89B7-4755-910D-549B6840789C",
+  "do_objectID": "138023A8-C376-4EA3-B781-7200CA36F60D",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "55774C57-77F4-4CC0-B6AD-97F37FE94BF0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,49 +16,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "do_objectID": "FF3036E4-9EA4-4A0E-A9AA-99E713871021",
+    "height": 194,
+    "width": 254,
+    "x": 903,
+    "y": 486
   },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -422,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "Community/Question Card Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "symbolMaster",
-      "id": "8E0BA8F4-FB63-48F0-BCC9-F5DA94AC785A"
+      "_class": "overrideValue",
+      "do_objectID": "D4923C7F-B5FA-492E-B362-31A108CD7865",
+      "overrideName": "D1C62DCE-1D73-40BF-B4A0-C663CF2E6901_stringValue",
+      "value": "Will it hurt?"
     }
   ],
-  "name": "Symbols",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "776EF25A-C0FE-4D50-9F6D-7BD551F504EB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -350,
-    "guides": [
-    ]
-  }
+  "symbolID": "9FA54D04-7649-410F-A7F8-E4BFDB19EEE1",
+  "verticalSpacing": 0
 }

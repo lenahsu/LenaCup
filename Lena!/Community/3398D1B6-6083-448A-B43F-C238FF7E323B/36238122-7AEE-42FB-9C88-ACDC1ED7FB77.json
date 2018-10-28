@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "376D166C-89B7-4755-910D-549B6840789C",
+  "do_objectID": "36238122-7AEE-42FB-9C88-ACDC1ED7FB77",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,37 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 194,
+    "width": 254,
+    "x": 303,
+    "y": 486
   },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -422,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "symbolMaster",
-      "id": "8E0BA8F4-FB63-48F0-BCC9-F5DA94AC785A"
-    }
+  "name": "Community/Question Card",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "Symbols",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -54,10 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -350,
-    "guides": [
-    ]
-  }
+  "symbolID": "9FA54D04-7649-410F-A7F8-E4BFDB19EEE1",
+  "verticalSpacing": 0
 }

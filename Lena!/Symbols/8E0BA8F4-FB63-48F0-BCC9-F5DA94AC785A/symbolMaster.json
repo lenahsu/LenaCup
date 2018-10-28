@@ -1,8 +1,16 @@
 {
-  "_class": "page",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "376D166C-89B7-4755-910D-549B6840789C",
+  "do_objectID": "8E0BA8F4-FB63-48F0-BCC9-F5DA94AC785A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,38 +23,47 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
+    "height": 194,
+    "width": 254,
+    "x": 100,
     "y": 0
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -422,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolMaster",
-      "id": "8E0BA8F4-FB63-48F0-BCC9-F5DA94AC785A"
+      "class": "rectangle",
+      "id": "12AB4D29-8A90-4D7E-9E96-BB8EDD16E392"
+    },
+    {
+      "class": "text",
+      "id": "D1C62DCE-1D73-40BF-B4A0-C663CF2E6901"
     }
   ],
-  "name": "Symbols",
-  "nameIsFixed": true,
+  "name": "Community/Question Card",
+  "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -54,9 +71,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "9FA54D04-7649-410F-A7F8-E4BFDB19EEE1",
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -350,
+    "base": 0,
     "guides": [
     ]
   }

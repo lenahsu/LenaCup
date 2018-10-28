@@ -2,7 +2,7 @@
   "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "376D166C-89B7-4755-910D-549B6840789C",
+  "do_objectID": "FB661CC6-5619-4FBE-A1AD-B9DDA45C1962",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -37,11 +37,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolMaster",
-      "id": "8E0BA8F4-FB63-48F0-BCC9-F5DA94AC785A"
+      "class": "artboard",
+      "id": "3398D1B6-6083-448A-B43F-C238FF7E323B"
     }
   ],
-  "name": "Symbols",
+  "name": "Community",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
