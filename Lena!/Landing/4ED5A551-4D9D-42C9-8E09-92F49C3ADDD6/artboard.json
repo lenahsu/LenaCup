@@ -1,0 +1,115 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E3760518-14D8-4A0F-987A-FCEB0F24168D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4ED5A551-4D9D-42C9-8E09-92F49C3ADDD6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "19532EFF-4243-4FD5-A0F2-67CF3E157374",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5F425BB8-DDC9-4264-ADC1-A101D18D015B",
+    "height": 3195,
+    "width": 1440,
+    "x": 2922,
+    "y": 581
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4EA485AB-3E3F-4D33-B9AE-42DE70479731",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0C178E69-71BE-433C-B742-379B3036EB52"
+    },
+    {
+      "class": "text",
+      "id": "EE4B3412-020D-40E8-B624-6E963726893A"
+    },
+    {
+      "class": "text",
+      "id": "2F03DC51-7DDC-4355-BF14-F622122E6B71"
+    },
+    {
+      "class": "text",
+      "id": "8D9DE8EC-7011-455B-90FF-CEB20BCF37AB"
+    },
+    {
+      "class": "text",
+      "id": "B753677D-5E79-4D8A-B0A5-278DE01FD915"
+    },
+    {
+      "class": "text",
+      "id": "16BE3B8C-D964-4404-9DC0-D1D70EE59BF7"
+    },
+    {
+      "class": "text",
+      "id": "A9065967-0246-4E7C-B94B-9D2AB13FA958"
+    },
+    {
+      "class": "bitmap",
+      "id": "ABCED42A-D301-4FD5-8415-802AA84EC296"
+    }
+  ],
+  "name": "A Day In The Life - Sam",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "88BFB175-53F6-4B47-8735-506917BA47AA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B56D547F-853F-44BD-A2D3-443E5CEA6D8D",
+    "guides": [
+    ]
+  }
+}
