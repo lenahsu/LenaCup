@@ -36,6 +36,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "EA047787-0716-4F46-A6AB-37A9BA0964AC"
+    }
   ],
   "name": "Styleguide",
   "nameIsFixed": true,
