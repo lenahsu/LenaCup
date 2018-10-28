@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0FC0A2E9-2522-41BE-8E4B-06026A843AB1",
+  "do_objectID": "461F9B56-E185-40FB-B136-70CBCEC216A4",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5A817468-A92E-47C1-B116-97E291D358A4",
+    "do_objectID": "5829ED08-E1E8-4FBD-BB2B-BE3C946A6B2D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,15 +14,15 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
+  "fixedRadius": 8,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4AE16EBB-868A-4F54-9601-E47BEB573E2F",
-    "height": 4279,
-    "width": 1440,
-    "x": -1,
-    "y": 0
+    "do_objectID": "43E02004-B17C-4230-B83D-3CC0155F139E",
+    "height": 33,
+    "width": 109,
+    "x": 1050,
+    "y": 253
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -32,14 +32,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "Background",
-  "nameIsFixed": true,
+  "layerListExpandedType": 0,
+  "name": "Rectangle Copy",
+  "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 8,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -49,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 8,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -59,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 8,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -69,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 8,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -90,17 +90,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
-        "thickness": 1
+        "thickness": 0.5
       }
     ],
-    "do_objectID": "C8B582BA-0922-4552-A218-482BC0D1E58D",
+    "do_objectID": "138C713D-039A-42E0-B94E-EC2C3A52F92F",
     "endMarkerType": 0,
     "fills": [
       {
@@ -108,15 +108,15 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9490196078431372,
-          "green": 0.9686274509803922,
-          "red": 0.984313725490196
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 0,
+        "patternFillType": 1,
         "patternTileScale": 1
       }
     ],

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "25284F5E-A6E1-4EC9-959E-BEB2A7B1FF03",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "18859376-A4CF-4347-804A-DC5F3B20511E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F6A55C9E-618C-42DF-96C9-CA77A7ECDE1E",
+    "height": 18,
+    "width": 17,
+    "x": 1054,
+    "y": 238
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FCBC2716-4D02-4F50-B7DC-7761F5E1F806"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "09F1794F-4CE7-4EEB-A302-52E8E1A66D82"
+    },
+    {
+      "class": "oval",
+      "id": "574F8EEE-2BFD-4298-9CD5-D9EDB32FE6F2"
+    }
+  ],
+  "name": "instagram",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E32523C2-AA1E-4989-BBE2-3038F2A008F0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

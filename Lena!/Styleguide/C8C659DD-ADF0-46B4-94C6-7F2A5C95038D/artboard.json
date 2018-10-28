@@ -4,14 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "50218F08-DED2-40FB-8F26-01143FDA770E",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EA047787-0716-4F46-A6AB-37A9BA0964AC",
+  "do_objectID": "C8C659DD-ADF0-46B4-94C6-7F2A5C95038D",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "52BB8099-6436-4419-8301-8A0C96637DC7",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -31,9 +33,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "4A42EFA7-DE07-4AF4-9990-AFD7DA284408",
     "height": 4280,
     "width": 1440,
-    "x": -281,
+    "x": 1445,
     "y": -165
   },
   "hasBackgroundColor": false,
@@ -42,6 +45,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "8753C49C-776A-4A7E-9F7D-9D8B60FD97A4",
     "guides": [
     ]
   },
@@ -57,43 +61,39 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "0FC0A2E9-2522-41BE-8E4B-06026A843AB1"
-    },
-    {
-      "class": "group",
-      "id": "F61CB296-E782-409A-80B5-022E347B257C"
+      "id": "372EA071-C3CF-4CBD-B0FA-64F23A9801B5"
     },
     {
       "class": "symbolInstance",
-      "id": "A97D0C00-DCDE-4361-8403-B12280F21564"
-    },
-    {
-      "class": "shapePath",
-      "id": "471E795E-0F6E-42D4-8A97-368E2AD58A40"
-    },
-    {
-      "class": "shapePath",
-      "id": "2ECB740A-7DA2-4C88-BDB7-AF6B962A6747"
-    },
-    {
-      "class": "shapePath",
-      "id": "CD35A911-A37B-422C-A947-529AA4BB3C6D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "25519B05-110F-486D-9A77-A2B0889C5B15"
-    },
-    {
-      "class": "bitmap",
-      "id": "86C7753F-2A01-4CAF-B6EF-9F1006CCA804"
+      "id": "6C18C490-501D-4FD0-AA71-E96F15ABC97C"
     },
     {
       "class": "text",
-      "id": "82CA873B-4748-4E52-A1BE-3F21184765FB"
+      "id": "842AE6BE-C7FB-4C29-84BC-3E8433CEAF12"
+    },
+    {
+      "class": "text",
+      "id": "139AF85E-B357-424E-83EA-E598A0AD312A"
+    },
+    {
+      "class": "shapePath",
+      "id": "AF257D35-7369-41AF-A1B4-06CC27BE66AA"
+    },
+    {
+      "class": "shapePath",
+      "id": "17B9D091-FA49-4290-A0E5-563963C79DEC"
+    },
+    {
+      "class": "shapePath",
+      "id": "DFF26075-C456-4A3E-B5C3-3B583F7A1554"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "421BDE47-A755-4B87-AE40-F21252BE48DC"
     }
   ],
-  "name": "Desktop HD",
-  "nameIsFixed": false,
+  "name": "Stories",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,
@@ -108,6 +108,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "FD32705F-2872-4855-91A5-774105DDBF19",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -116,6 +117,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "CFA11C4A-F3D4-4E1C-BA5C-54E2B05FD9C7",
     "guides": [
     ]
   }

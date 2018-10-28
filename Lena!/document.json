@@ -33,6 +33,8 @@
     "version": 112
   },
   "pages": [
-    "Styleguide"
+    "Styleguide",
+    "Symbols",
+    "Screens"
   ]
 }

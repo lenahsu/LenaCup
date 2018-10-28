@@ -1,12 +1,11 @@
 {
-  "_class": "bitmap",
+  "_class": "shapeGroup",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "B1C00A83-F670-4ADA-8EFF-561DBB50951C",
+  "do_objectID": "B3A76963-C3A4-4A65-9369-9E8179469995",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6CEEEDC5-FD94-403D-9FC0-95C91B887E21",
+    "do_objectID": "066F8AF3-D95C-4CF6-84C3-4A78691C096D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,30 +13,34 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "8AE59786-B640-43BE-87F0-559EA6D2EB79",
-    "height": 100,
-    "width": 100,
-    "x": 122,
-    "y": 609
+    "do_objectID": "1B300C8A-B4E7-4C0D-AF80-14E2897E36DE",
+    "height": 10,
+    "width": 10,
+    "x": 5,
+    "y": 5
   },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/32c1cb442e6e448f3e4aafa32d8f4f3797687625.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 144,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Bitmap Copy 4",
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "9BF1CE42-AF6D-4258-9448-069AA62885CE"
+    },
+    {
+      "class": "shapePath",
+      "id": "38E5D36B-342C-4CAC-82F4-B5FBA0A1D68A"
+    }
+  ],
+  "name": "Shape",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,7 +48,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "1EBE7EE2-D60B-4AB9-B676-41583330A3C2",
+    "do_objectID": "AE8A874D-FF9C-4BA2-9817-B3DABF912C29",
     "endMarkerType": 0,
     "fills": [
       {
@@ -53,9 +56,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1176470588235295,
-          "green": 0.1529411764705883,
-          "red": 0.7176470588235294
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,
@@ -67,6 +70,7 @@
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 1
-  }
+    "windingRule": 0
+  },
+  "windingRule": 0
 }

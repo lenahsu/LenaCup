@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "963DA88B-CDE3-4F33-A457-F4C15F527DD6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7F75B747-9505-49EE-87AF-589B1D099189",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4D7AE987-98FF-423B-98E9-83509C125E28",
+    "height": 34,
+    "width": 120,
+    "x": 1138,
+    "y": 302
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8809C23B-5036-4F2F-8A6C-D2D91B4EFDB7"
+    },
+    {
+      "class": "text",
+      "id": "FF9FE31D-6178-4DEE-838B-CBB17DA873A3"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "934A5C49-1FED-4589-9340-5FACF4CCD1A2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

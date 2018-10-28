@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C7E708D2-85E6-427C-85C2-52659A4B768D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4635C9DF-87BC-4745-BA08-1990E73B1B14",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4736530A-FCA2-4605-B9DD-F57A90B63F23",
+    "height": 20,
+    "width": 10,
+    "x": 76,
+    "y": 69
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "4E89B910-F218-45AA-95E2-F9D2B335B0A8"
+    }
+  ],
+  "name": "facebook-letter-logo (1)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "229DA257-38F7-4270-B3CF-00CBA02D8E5A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.90384852352754,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "60766D2F-F36A-4942-AABC-A5366A1EFC4F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

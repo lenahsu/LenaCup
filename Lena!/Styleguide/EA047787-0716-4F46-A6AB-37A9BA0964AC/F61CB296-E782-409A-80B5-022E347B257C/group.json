@@ -1,8 +1,8 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "group",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5899a5e0-daf4-11e8-a36e-79e4ee2cc09f",
+  "do_objectID": "F61CB296-E782-409A-80B5-022E347B257C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,20 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 428,
+    "width": 714,
+    "x": 363,
+    "y": 222
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -37,23 +30,23 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "EA047787-0716-4F46-A6AB-37A9BA0964AC"
+      "class": "oval",
+      "id": "FB77E60C-FA0A-473A-9603-07C5F2C357FF"
     },
     {
-      "class": "artboard",
-      "id": "C8C659DD-ADF0-46B4-94C6-7F2A5C95038D"
+      "class": "text",
+      "id": "E6AEB8B4-CE6E-4C4F-A428-42D8C0427C21"
+    },
+    {
+      "class": "text",
+      "id": "A29B28D6-F043-4FEB-A4DD-34F76950D6BC"
     },
     {
       "class": "symbolInstance",
-      "id": "A20A4C68-F53E-4D3C-9531-D0CDEA54E834"
-    },
-    {
-      "class": "bitmap",
-      "id": "F68C528D-F630-493D-A9D6-9461A5617F4A"
+      "id": "3F28435D-DE30-4E17-919F-FBE1C3131129"
     }
   ],
-  "name": "Styleguide",
+  "name": "Hero",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -65,11 +58,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
   }
 }

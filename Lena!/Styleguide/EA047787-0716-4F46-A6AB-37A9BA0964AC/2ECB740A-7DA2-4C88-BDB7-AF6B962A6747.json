@@ -1,12 +1,11 @@
 {
-  "_class": "bitmap",
-  "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
+  "_class": "shapePath",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "7E64CCCC-1E7B-4E11-9E09-CDA9A85AB55B",
+  "do_objectID": "2ECB740A-7DA2-4C88-BDB7-AF6B962A6747",
+  "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "668AB84D-AE59-4581-8D83-320007AB16AB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,38 +13,59 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D928BB8C-8264-4A74-A26C-23140035AF02",
-    "height": 593,
-    "width": 1440,
-    "x": -498,
-    "y": 963
+    "height": 1,
+    "width": 1,
+    "x": -1,
+    "y": 875
   },
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/32c1cb442e6e448f3e4aafa32d8f4f3797687625.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 144,
+  "isClosed": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bitmap Copy 7",
+  "name": "Path 2",
   "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.5, 0.5}",
+      "curveMode": 1,
+      "curveTo": "{0.5, 0.5}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.5, 0.5}"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "7BB7786C-E7F3-40BA-918B-9CC9DF5CD244",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
     "endMarkerType": 0,
     "fills": [
       {
@@ -53,15 +73,15 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3009106791692218,
-          "green": 0.3959661989795918,
-          "red": 0.003070050430061961
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 1,
+        "patternFillType": 0,
         "patternTileScale": 1
       }
     ],

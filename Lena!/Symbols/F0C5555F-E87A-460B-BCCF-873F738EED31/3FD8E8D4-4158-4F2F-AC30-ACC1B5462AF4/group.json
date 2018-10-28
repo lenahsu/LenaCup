@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3FD8E8D4-4158-4F2F-AC30-ACC1B5462AF4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E1642FA-42B2-494A-BB87-A00315EAC920",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2AE7110D-8FB4-40DD-92C6-5C4CEFA525E9",
+    "height": 18,
+    "width": 15,
+    "x": 199,
+    "y": 71
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "81382DFB-9E61-4788-B385-5B9148ECD28E"
+    }
+  ],
+  "name": "pinterest",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "73BBB526-DB66-434E-86E9-D19F5B6065C7",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 16.51346557006934,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "FAB21638-72C6-42A5-9AB2-392B0FA8BA51",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
