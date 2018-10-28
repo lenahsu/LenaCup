@@ -74,6 +74,10 @@
     {
       "class": "bitmap",
       "id": "B1C00A83-F670-4ADA-8EFF-561DBB50951C"
+    },
+    {
+      "class": "text",
+      "id": "A1ED7825-6ABA-4180-868B-017FED7891B4"
     }
   ],
   "name": "Desktop HD",
