@@ -9,18 +9,18 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2902374565601349,
-            "green": 0.2901752889156342,
-            "red": 0.290221631526947
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "BienetresocialBold",
-              "size": 40
+              "name": "Gilroy-Regular",
+              "size": 12
             }
           },
-          "kerning": 3.700000047683716,
+          "kerning": 1.200000047683716,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2
@@ -31,15 +31,16 @@
         "location": 0
       }
     ],
-    "string": "Lena"
+    "string": "Shop"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A1ED7825-6ABA-4180-868B-017FED7891B4",
+  "do_objectID": "EADF6C45-BA0E-4843-B0EB-9CF6E5DD75C7",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "66DDBD76-3525-4B84-B3E3-0792F1ACED4C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,12 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 47,
-    "width": 116,
-    "x": 570,
-    "y": 324
+    "do_objectID": "1886F21F-D103-4071-9215-F8CE86AD87D9",
+    "height": 12,
+    "width": 34,
+    "x": 506.5,
+    "y": 66
   },
-  "glyphBounds": "{{0, 9}, {113, 31}}",
+  "glyphBounds": "{{0, 0}, {32, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Lena",
+  "name": "Shop",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -72,27 +74,29 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "D102890B-6CF1-41AF-9299-08DFAB3D999D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "79FD3E44-F5F2-4C23-BC7E-8DCE75066971",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2902374565601349,
-          "green": 0.2901752889156342,
-          "red": 0.290221631526947
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "BienetresocialBold",
-            "size": 40
+            "name": "Gilroy-Regular",
+            "size": 12
           }
         },
-        "kerning": 3.700000047683716,
+        "kerning": 1.200000047683716,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2

@@ -1,12 +1,11 @@
 {
   "_class": "bitmap",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "3E63967F-C7AF-4213-92E4-ABDCC1E53D91",
+  "do_objectID": "1BE6740F-406F-433D-BD6B-AC5D82D305F6",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BADCEC3F-4981-46EF-9215-3CD064C38C21",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,27 +16,26 @@
   "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "do_objectID": "FA0D5C43-5DF2-41AF-948E-16DA5F2E0883",
-    "height": 148,
-    "width": 1440,
+    "constrainProportions": true,
+    "height": 32,
+    "width": 32,
     "x": 0,
-    "y": -5
+    "y": 0
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/32c1cb442e6e448f3e4aafa32d8f4f3797687625.png",
+    "_ref": "images/05f50c5e7a2b3b77451dd0ea08847499d53cf091.png",
     "_ref_class": "MSImageData"
   },
-  "intendedDPI": 144,
+  "intendedDPI": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bitmap Copy 3",
+  "name": "noun_bag_943851_FFFFFF",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,26 +43,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "E6B641C1-2B34-47E5-9C86-DE6EB44EC89F",
     "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 1,
-          "green": 0.1764705882352937,
-          "red": 0.1647058823529411
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
