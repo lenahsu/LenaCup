@@ -9,19 +9,10 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EA047787-0716-4F46-A6AB-37A9BA0964AC",
+  "do_objectID": "3ED1E3C7-7617-48B6-BC07-5CE7C82D2D42",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -31,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2447,
+    "height": 1024,
     "width": 1440,
-    "x": -281,
-    "y": -165
+    "x": -359,
+    "y": 83
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -56,32 +47,48 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "0FC0A2E9-2522-41BE-8E4B-06026A843AB1"
+      "class": "text",
+      "id": "1C5819D3-C306-4D7A-8B91-037836362B27"
     },
     {
-      "class": "bitmap",
-      "id": "F68C528D-F630-493D-A9D6-9461A5617F4A"
+      "class": "text",
+      "id": "A64077EA-BE6B-4B2E-AFDF-5DF2B12EA07C"
     },
     {
-      "class": "bitmap",
-      "id": "86C7753F-2A01-4CAF-B6EF-9F1006CCA804"
+      "class": "text",
+      "id": "80B8B787-60A3-4E6C-9429-B080FEDEE9C3"
     },
     {
-      "class": "bitmap",
-      "id": "2C699F0A-464F-460E-BD1A-58B1D75DF0A9"
+      "class": "text",
+      "id": "403FDFAD-BC22-4DB9-87B9-3F55012B7531"
     },
     {
-      "class": "bitmap",
-      "id": "7E64CCCC-1E7B-4E11-9E09-CDA9A85AB55B"
+      "class": "text",
+      "id": "BE2F8099-9541-4113-B90B-843AA38E9EC4"
     },
     {
-      "class": "bitmap",
-      "id": "3E63967F-C7AF-4213-92E4-ABDCC1E53D91"
+      "class": "text",
+      "id": "2122B816-89AB-4D69-94EE-C0039C99BEED"
     },
     {
-      "class": "bitmap",
-      "id": "B1C00A83-F670-4ADA-8EFF-561DBB50951C"
+      "class": "text",
+      "id": "4F90BBDD-7BDA-4F55-97FD-FD3173D818D3"
+    },
+    {
+      "class": "text",
+      "id": "81A263B0-442A-4B40-ACBD-3A36450F2124"
+    },
+    {
+      "class": "text",
+      "id": "ABD7A10F-16A5-481E-9881-B1CF225EB8A5"
+    },
+    {
+      "class": "text",
+      "id": "A9F5B28D-93B1-4E93-9A27-711FD9C33BC5"
+    },
+    {
+      "class": "shapePath",
+      "id": "00FAB3D3-B84A-4C6E-BF21-CFCEE4F537F3"
     }
   ],
   "name": "Desktop HD",
